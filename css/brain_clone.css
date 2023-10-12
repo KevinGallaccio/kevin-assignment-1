@@ -1,0 +1,104 @@
+.section1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 30px;
+}
+
+.section2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 50px 200px 50px
+}
+
+.section3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 200px;
+}
+
+.section4{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 200px;
+    color: white;
+}
+
+body{
+    background-color:#4912F6;
+    margin: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1.5px;
+     
+}
+
+input[type="button"]{
+    padding: 20px 30px;
+    color: white;
+    font-size: 25px;
+    letter-spacing: 1.3px;
+    border: 0px;
+    border-radius: 60px;
+    background:linear-gradient(to right, #EA9E3D , #EE7D38);
+    font-weight: bold;
+    width: 220px;
+    max-width: 100%;
+    word-wrap: break-word;
+    white-space: normal;
+    text-align: center;
+}
+
+a{
+    color: rgba(255, 255, 255, 0.793);
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EA9E3D;
+    text-decoration: none;
+}
+
+.Headline1{
+    color: white;
+    font-weight: lighter;
+    font-size: 50px;
+
+}
+
+.Headline2{
+    color: white;
+    font-weight:600;
+    font-size: 60px;
+
+}
+
+.Headline3{
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.793);
+    text-decoration: none;
+}
+
+.Text1{
+    font-weight:bold;
+    font-size: 30px;
+
+}
+
+.Text2{
+    font-size: 24px;
+
+}
+
+.Text3{
+    font-weight:bold;
+    font-size: 24px;
+    text-decoration:underline;
+    margin-top: 60px;
+
+}
